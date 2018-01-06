@@ -2,7 +2,7 @@
 
 ![alt text](https://smart-lab.ru/uploads/images/00/06/01/2018/01/06/db99e5.png)
 
-Trading terminal for Moscow Exchange (MOEX) stock market.
+Trading terminal for Moscow Exchange (MOEX) stock market, futures and options section.
 Using Transaq XML Connector (for russian broker FINAM only).
 
 To build this code, you need:
