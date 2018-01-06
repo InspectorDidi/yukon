@@ -1,4 +1,4 @@
-# yukon
+# RTS-Robot (codename:yukon)
 
 ![alt text](https://smart-lab.ru/uploads/images/00/06/01/2018/01/06/db99e5.png)
 
